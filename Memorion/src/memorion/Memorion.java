@@ -1,6 +1,6 @@
 /**
  *
- * @author Sergio López Rodríguez
+ * @author Sergio López Rodríguez y Daniel García Hernandez
  */
 
 package memorion;
